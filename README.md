@@ -1,2 +1,2 @@
-# google_chart_ui
-Exploring google charts
+# USING GOOGLE CHART 
+### Converted functional based chart draw into class based chart draw.
